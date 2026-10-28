@@ -1,4 +1,4 @@
-# 🛡️ API de Alunos com Autenticação JWT
+# API de Alunos com Autenticação JWT
 
 RESTful API desenvolvida em **Node.js** estruturada no padrão MVC para gestão e cadastro de alunos, implementando controle de acesso e proteção de endpoints por meio de tokens **JWT (JSON Web Token)**.
 
